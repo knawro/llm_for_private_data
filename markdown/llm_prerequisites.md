@@ -18,7 +18,7 @@
 
 ```
 [athena]$ ln -s $SCRATCH scratch
-[athena]$ ln -s $PLG_GROUPS_STORAGE group
+[athena]$ ln -s $PLG_GROUPS_STORAGE/plggeurocctt group
 ```
 
 ```
