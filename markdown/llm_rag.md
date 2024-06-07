@@ -24,3 +24,7 @@
 <small>[* https://www.determined.ai/blog/rag](https://www.determined.ai/blog/rag)</small>
 
 !SUB
+
+## Simple RAG Tutorial
+
+ https://jupyterhub.athena.cyfronet.pl

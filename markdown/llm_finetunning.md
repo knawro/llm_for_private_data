@@ -59,9 +59,9 @@ e.g.
 
 !SUB
 
-# PEFT/LORA/QLORA
+## PEFT/LORA/QLORA Tutorial
 
-## @Athena
+https://jupyterhub.athena.cyfronet.pl
 
 !SUB
 

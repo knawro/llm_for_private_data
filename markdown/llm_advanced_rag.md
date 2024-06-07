@@ -12,8 +12,6 @@
 
 
 
-# Advanced RAG
+## Advanced RAG Tutorial
 
-## @Athena
-
-Based on <small>[* Advanced RAG on HuggingFace documentation using LangChain - Hugging Face Open-Source AI Cookbook by Aymeric Roucher](https://huggingface.co/learn/cookbook/en/advanced_rag)</small>
+ https://jupyterhub.athena.cyfronet.pl
