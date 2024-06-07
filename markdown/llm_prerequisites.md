@@ -10,46 +10,7 @@
 
 !SUB
 
-**Let's obtain jupyter-lab notebook on Cyfronet's Athena**
-
-```
-[laptop]$ ssh plg...@athena.cyfronet.pl
-```
-
-```
-[athena]$ ln -s $SCRATCH scratch
-[athena]$ ln -s $PLG_GROUPS_STORAGE/plggeurocctt group
-```
-
-```
-[athena]$ cp group/tutorial/python-notebook.slurm $HOME
-```
-
-```
-[athena]$ cat python-notebook.slurm
-[athena]$ sbatch python-notebook.slurm
-[athena]$ hpc-jobs
-```
-
-```
-[athena]$ ls | grep jupyter-log-
-
-and use the one with the highest number in the following commands
-```
-
-```
-In a new terminal window on your laptop execute output of the following command:
-
-[athena]$ grep "ServerAliveInterval" jupyter-log-nnnnnn.txt
-```
-
-```
-Execute the following command:
-
-[athena]$ grep "127.0.0.1" jupyter-log-nnnnnn.txt | grep "token" | grep -v ServerApp
-
--> on your laptop go to the address obtained
-```
+Please go to the adress jupyterhub.athena.cyfronet.pl and login using credentials given by us
 
 !SUB
 
@@ -87,3 +48,41 @@ Execute the following command:
 </br>
 
 <small>[Athena - Maciej Pawlik - Confluence](https://docs.cyfronet.pl/display/~plgpawlik/Athena)</small>
+
+!SUB
+
+**FALLBACK: Let's obtain jupyter using SLURM on Cyfronet's Athena**
+
+```
+[laptop]$ ssh tutorial...@athena.cyfronet.pl
+```
+
+```
+[athena]$ ln -s $SCRATCH scratch
+```
+
+```
+[athena]$ cat /net/pr2/projects/tutorial/2024-06-07-ncbj-wmlq/tutorial_setup/slurm_files/python-notebook.slurm
+[athena]$ sbatch /net/pr2/projects/tutorial/2024-06-07-ncbj-wmlq/tutorial_setup/slurm_files/python-notebook.slurm
+[athena]$ hpc-jobs
+```
+
+```
+[athena]$ ls | grep jupyter-log-
+
+and use the one with the highest number in the following commands
+```
+
+```
+In a new terminal window on your laptop execute output of the following command:
+
+[athena]$ grep "ServerAliveInterval" jupyter-log-nnnnnn.txt
+```
+
+```
+Execute the following command:
+
+[athena]$ grep "127.0.0.1" jupyter-log-nnnnnn.txt | grep "token" | grep -v ServerApp
+
+-> on your laptop go to the address obtained
+```

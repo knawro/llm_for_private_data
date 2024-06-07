@@ -23,6 +23,10 @@
 
 !SUB
 
+Special **THANKS** </br></br> to </br></br> **Marta Maj** and **Klemens Noga** </br></br> from the </br></br> **Cyfronet ACK**
+
+!SUB
+
 # Plan of the tutorial
 
 </br>
