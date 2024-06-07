@@ -10,7 +10,7 @@
 
 !SUB
 
-Please go to the adress jupyterhub.athena.cyfronet.pl and login using credentials given by us
+Please go to </br></br> **https://jupyterhub.athena.cyfronet.pl** </br></br> in your browser and login using credentials given by us
 
 !SUB
 
