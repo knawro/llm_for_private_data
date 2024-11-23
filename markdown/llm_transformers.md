@@ -62,7 +62,7 @@
 
 ## Feature-based attention
 
-## The Key, Value, and Query
+## The Key, Value and Query
 
 ![](images/attention-as-database-query.png)
 
