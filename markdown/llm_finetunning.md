@@ -63,7 +63,7 @@ e.g.
 
 https://jupyterhub.athena.cyfronet.pl
 
-* <small>[* Text generation settings](https://happytransformer.com/text-generation/settings)</small>
+<small>[* Text generation settings](https://happytransformer.com/text-generation/settings)</small>
 
 !SUB
 
