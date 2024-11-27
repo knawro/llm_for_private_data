@@ -63,7 +63,7 @@ e.g.
 
 https://jupyterhub.athena.cyfronet.pl
 
-May be useful
+<small>May be useful</small>
 
 <small>[* Text generation settings](https://happytransformer.com/text-generation/settings)</small>
 
