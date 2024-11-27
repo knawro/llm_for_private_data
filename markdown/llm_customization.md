@@ -10,25 +10,25 @@
 
 ![](images/full_ft_deci_schemat.png)
 
-<small>[* Full Fine-Tuning, PEFT, Prompt Engineering, or RAG?](https://deci.ai/blog/fine-tuning-peft-prompt-engineering-and-rag-which-one-is-right-for-you/)</small>
+<small>[* Full Fine-Tuning, PEFT, Prompt Engineering, or RAG?](https://www.linkedin.com/pulse/full-fine-tuning-peft-prompt-engineering-rag-which-one-right-you)</small>
 
 !SUB
 
 ![](images/peft_ft_deci_schemat.png)
 
-<small>[* Full Fine-Tuning, PEFT, Prompt Engineering, or RAG?](https://deci.ai/blog/fine-tuning-peft-prompt-engineering-and-rag-which-one-is-right-for-you/)</small>
+<small>[* Full Fine-Tuning, PEFT, Prompt Engineering, or RAG?](https://www.linkedin.com/pulse/full-fine-tuning-peft-prompt-engineering-rag-which-one-right-you)</small>
 
 !SUB
 
 ![](images/rag_deci_schemat.png)
 
-<small>[* Full Fine-Tuning, PEFT, Prompt Engineering, or RAG?](https://deci.ai/blog/fine-tuning-peft-prompt-engineering-and-rag-which-one-is-right-for-you/)</small>
+<small>[* Full Fine-Tuning, PEFT, Prompt Engineering, or RAG?](https://www.linkedin.com/pulse/full-fine-tuning-peft-prompt-engineering-rag-which-one-right-you)</small>
 
 !SUB
 
 ![](images/prompt_engineering_deci_schemat.png)
 
-<small>[* Full Fine-Tuning, PEFT, Prompt Engineering, or RAG?](https://deci.ai/blog/fine-tuning-peft-prompt-engineering-and-rag-which-one-is-right-for-you/)</small>
+<small>[* Full Fine-Tuning, PEFT, Prompt Engineering, or RAG?](https://www.linkedin.com/pulse/full-fine-tuning-peft-prompt-engineering-rag-which-one-right-you)</small>
 
 !SUB
 
