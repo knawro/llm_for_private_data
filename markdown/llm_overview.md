@@ -13,7 +13,7 @@
 
 <small>[* How to Get Better Outputs from Your Large Language Model | NVIDIA Technical Blog](https://developer.nvidia.com/blog/how-to-get-better-outputs-from-your-large-language-model/)</small>
 
-<small>**LLM playground**</small>
+<small>**LLM playgrounds**</small>
 
 <small> https://nat.dev</small> | <small> https://alonsosilva-nexttokenprediction.hf.space</small>
 
@@ -23,11 +23,11 @@
 
 ![](images/playgrounds_in_1900_1.jpg)<!-- .element width="70%" -->
 
-<small>[* The History of the Playground](https://www.cedarworks.com/blog/view/the-history-of-the-playground)</small>
+<small>[* The History of the Playgrounds](https://www.cedarworks.com/blog/view/the-history-of-the-playground)</small>
 
-**https://nat.dev**
+<small>https://nat.dev</small>
 
-**https://alonsosilva-nexttokenprediction.hf.space**
+<small>https://alonsosilva-nexttokenprediction.hf.space</small>
 
 !SUB
 
