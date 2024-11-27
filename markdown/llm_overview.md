@@ -15,7 +15,7 @@
 
 <small>**LLM playground**</small>
 
-<small> https://nat.dev</small> <small> https://alonsosilva-nexttokenprediction.hf.space</small>
+<small> https://nat.dev</small> | <small> https://alonsosilva-nexttokenprediction.hf.space</small>
 
 !SUB
 
