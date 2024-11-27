@@ -78,7 +78,7 @@
 
 ![](images/attention_matrix.png)<!-- .element width="50%" -->
 
-<small>[* Getting Meaning from Text: Self-attention Step-by-step Video](towardsai.net/p/nlp/getting-meaning-from-text-self-attention-step-by-step-video)</small>
+<small>[* Getting Meaning from Text: Self-attention Step-by-step Video](https://towardsai.net/p/nlp/getting-meaning-from-text-self-attention-step-by-step-video)</small>
 
 !SUB
 
