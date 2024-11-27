@@ -58,7 +58,7 @@
 
 <small>[* Serrano Academy](https://www.youtube.com/watch?v=qaWMOYf4ri8)</small>
 
-Side remark - tokenizers: **https://alonsosilva-tokenizer.hf.space**
+Side remark - Tokenizers: https://alonsosilva-tokenizer.hf.space
 
 !SUB
 
