@@ -58,6 +58,6 @@
 
 e.g.
 
-![](/home/nawrocki/Work/llm_for_private_data/markdown/images/prompt_testing.png)<!-- .element width="70%" -->
+![](images/prompt_testing.png)<!-- .element width="70%" -->
 
 <small>[* together.ai](https://api.together.xyz/playground/chat/meta-llama/Llama-3-70b-chat-hf)</small>
