@@ -23,6 +23,8 @@
 
 **https://nat.dev**
 
+**https://alonsosilva-nexttokenprediction.hf.space**
+
 !SUB
 
 ## Steps of creating an LLM
