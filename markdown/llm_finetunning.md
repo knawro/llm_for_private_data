@@ -49,16 +49,6 @@ QLoRA uses 4-bit NormalFloat data type
 
 !SUB
 
-## Finding your ideal prompt
-
-e.g.
-
-![](images/prompt_testing.png)<!-- .element width="70%" -->
-
-<small>[* together.ai](https://api.together.xyz/playground/chat/meta-llama/Llama-3-70b-chat-hf)</small>
-
-!SUB
-
 ## PEFT/LORA/QLORA Tutorial
 
 https://jupyterhub.athena.cyfronet.pl

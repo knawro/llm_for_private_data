@@ -51,3 +51,13 @@
 ![](images/rag_vs_ft_table.png)<!-- .element width="50%" -->
 
 <small>[* RAG vs Finetuning — Which Is the Best Tool to Boost Your LLM Application?](https://towardsdatascience.com/rag-vs-finetuning-which-is-the-best-tool-to-boost-your-llm-application-94654b1eaba7)</small>
+
+!SUB
+
+## Finding your ideal prompt
+
+e.g.
+
+![](/home/nawrocki/Work/llm_for_private_data/markdown/images/prompt_testing.png)<!-- .element width="70%" -->
+
+<small>[* together.ai](https://api.together.xyz/playground/chat/meta-llama/Llama-3-70b-chat-hf)</small>
