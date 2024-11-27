@@ -13,7 +13,7 @@
 
 <small>[* How to Get Better Outputs from Your Large Language Model | NVIDIA Technical Blog](https://developer.nvidia.com/blog/how-to-get-better-outputs-from-your-large-language-model/)</small>
 
-LLM playground: https://nat.dev https://alonsosilva-nexttokenprediction.hf.space
+<small>LLM playground: https://nat.dev https://alonsosilva-nexttokenprediction.hf.space</small>
 
 !SUB
 
