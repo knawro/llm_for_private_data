@@ -74,6 +74,14 @@
 
 !SUB
 
+## Attention mechanism
+
+![](images/attention.png)<!-- .element width="50%" -->
+
+</small>[* Attention please!](https://codecompass00.substack.com/p/visual-guide-attention-mechanism-transformers?r=rcorn&utm_campaign=post&utm_medium=web&triedRedirect=true)</small>
+
+!SUB
+
 ## Self attention
 
 ![](images/attention_matrix.png)<!-- .element width="50%" -->
