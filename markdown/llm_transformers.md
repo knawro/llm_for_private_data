@@ -76,7 +76,7 @@
 
 ## Attention mechanism
 
-![](images/attention.png)<!-- .element width="50%" -->
+![](images/attention.png)<!-- .element width="70%" -->
 
 </small>[* Attention please!](https://codecompass00.substack.com/p/visual-guide-attention-mechanism-transformers?r=rcorn&utm_campaign=post&utm_medium=web&triedRedirect=true)</small>
 
